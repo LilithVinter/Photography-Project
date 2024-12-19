@@ -16,7 +16,7 @@ body{
 
 .grid2 {
   display: grid;
-  grid-gap: 100px;
+  grid-gap: 50px;
 }
 
 .img-responsive {
@@ -38,7 +38,7 @@ body{
 
 .embed {
   width: 100%;
-  aspect-ratio: 1 /1;
+  aspect-ratio: 1 /1.5;
 }
 
 .instagram-embeds {
@@ -72,7 +72,7 @@ body{
   letter-spacing: 3px;
   text-transform: uppercase;
   padding: 16px;
-  background-color: #462cb3;
+  background-color: #130f25;
   text-decoration: none;
 }
 
@@ -83,7 +83,7 @@ section {
 }
 
 section.secondary {
-  background: #130f25;
+  background: #1a1729;
 }
 
 header{
@@ -172,6 +172,7 @@ main h5 {
   margin: 0;
   line-height: 1;
   color: #ffffff;
+  opacity: 0.5;
 }
 
 main p {
