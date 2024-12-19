@@ -1,4 +1,4 @@
-<h1> 'Capture the Moment'Landing Page </h1>
+<h1> 'Capture the Moment' Landing Page </h1>
  I designed a landing page that demonstrates my responsive design skills. Using grids and media queries, the page adapts across screen sizes and devices. It showcases my photography, presenting my work in a visually engaging way while ensuring functionality on both desktop and mobile. This project helped me explore the balance between aesthetics and usability, ensuring an optimal user experience on any device.
 
 <h3>Demonstrates:</h3>
